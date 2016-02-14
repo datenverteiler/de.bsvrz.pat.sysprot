@@ -1,4 +1,4 @@
-System-Protokollierer v${project.version} [![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.pat.sysprot.svg?branch=master)](https://travis-ci.org/datenverteiler/de.bsvrz.pat.sysprot)
+System-Protokollierer v${project.version} [![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.pat.sysprot.svg?branch=develop)](https://travis-ci.org/datenverteiler/de.bsvrz.pat.sysprot)
 ==================
 
 
