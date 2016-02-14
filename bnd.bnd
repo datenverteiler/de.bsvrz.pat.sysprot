@@ -1,6 +1,4 @@
--exportcontents: \
-    de.bsvrz.pat.sysprot \
-    de.bsvrz.pat.sysprot.main
+-exportcontents: de.bsvrz.pat.sysprot.*
 -sources: true
 
 Bundle-Name: System-Protokollierer
