@@ -14,7 +14,7 @@
             <leftColumnClass>span3</leftColumnClass>
             <bodyColumnClass>span9</bodyColumnClass>
             <gitHub>
-                <projectId>datenverteiler/de.bsvrz.pat.sysprot</projectId>
+                <projectId>bitctrl/de.bsvrz.pat.sysprot</projectId>
                 <ribbonOrientation>right</ribbonOrientation>
             </gitHub>
         </fluidoSkin>
